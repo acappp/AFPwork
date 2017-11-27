@@ -10,6 +10,6 @@ lsec2 = len(sec2) #Counts the letters in the second section
 
 sec3 = str1[91:]
 
-total = len(str1) #Works out the percentage 
+total = len(str1) #Works out the percentage
 perc = ((lsec1 + lsec2) / total*100)
 print(perc)
