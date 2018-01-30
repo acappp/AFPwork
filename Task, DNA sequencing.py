@@ -25,6 +25,7 @@ def opening():
 
 
 
+#Function for helping the user choose which subject to analyse
 def main():
     choice = '0'
     while choice == '0':
